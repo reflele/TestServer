@@ -1,0 +1,15 @@
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\test_server.exe
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\test_server.deps.json
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\test_server.runtimeconfig.json
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\test_server.dll
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\test_server.pdb
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.csproj.AssemblyReference.cache
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.AssemblyInfoInputs.cache
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.AssemblyInfo.cs
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.csproj.CoreCompileInputs.cache
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.dll
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\refint\test_server.dll
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.pdb
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\test_server.genruntimeconfig.cache
+C:\Users\mog\source\repos\test_server\test_server\obj\Release\net6.0\ref\test_server.dll

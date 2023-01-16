@@ -1,0 +1,5 @@
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\publish\test_server.exe
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\publish\test_server.dll
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\publish\test_server.deps.json
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\publish\test_server.runtimeconfig.json
+C:\Users\mog\source\repos\test_server\test_server\bin\Release\net6.0\publish\test_server.pdb
